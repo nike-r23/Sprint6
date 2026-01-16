@@ -16,4 +16,4 @@ Proyecto Sprint 6
 ## Herramientas: 
 * Python (pandas, NumPy)
 * Matplotlib
-* Google Colabgit commi
+* Google Colabgit 
