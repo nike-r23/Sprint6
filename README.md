@@ -5,10 +5,13 @@ Proyecto Sprint 6
 
 ## Proyecto académico – Bootcamp TripleTen (2025)
 
-*Analicé datos históricos de ventas de videojuegos para identificar patrones de éxito por región y plataforma.
+* Analicé datos históricos de ventas de videojuegos para identificar patrones de éxito por región y plataforma.
 
-*Realicé limpieza, exploración y análisis estadístico de datos, incluyendo manejo de valores nulos y categorización de variables.
+* Realicé limpieza, exploración y análisis estadístico de datos, incluyendo manejo de valores nulos y categorización de variables.
 
-*Construí visualizaciones para analizar tendencias, correlaciones y comportamiento del mercado.
+* Construí visualizaciones para analizar tendencias, correlaciones y comportamiento del mercado.
 
-## Herramientas: Python (pandas, NumPy), Matplotlib, Google Colab
+## Herramientas: 
+* Python (pandas, NumPy)
+* Matplotlib
+* Google Colab
