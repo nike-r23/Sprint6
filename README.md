@@ -1,19 +1,20 @@
-# Sprint6
-Proyecto Sprint 6
+## Análisis de juegos exitosos por región
 
-# Análisis de juegos exitosos por región
+### Descripción
+Análisis de datos históricos de ventas de videojuegos con el objetivo de identificar patrones de éxito por región, plataforma y género. El enfoque se centra en comprender tendencias de mercado y comportamientos de consumo a partir de datos estructurados.
 
-## Proyecto académico | Bootcamp TripleTen (2025)
+El análisis prioriza la exploración, segmentación y evaluación comparativa de variables relevantes para apoyar la interpretación de resultados.
 
-* Analicé datasets de gran volumen con datos históricos de ventas de videojuegos para identificar patrones de éxito por región y plataforma, comparables a análisis de mercado.
+### Enfoque del análisis
+- Limpieza y preparación de datos para análisis exploratorio
+- Análisis estadístico de variables numéricas y categóricas
+- Segmentación por región, plataforma y género
+- Identificación de tendencias y relaciones relevantes entre variables
 
-* Realicé limpieza, exploración y análisis estadístico de datos, incluyendo manejo de valores nulos, categorización de variables y segmentación por región, plataforma y género.
+### Herramientas
+- Python (pandas, NumPy)
+- Matplotlib
+- Google Colab
 
-* Evalué múltiples variables numéricas y categóricas para identificar tendencias, correlaciones y comportamientos del mercado.
-
-* Construí visualizaciones comparativas para comunicar hallazgos y apoyar la toma de decisiones basada en datos.
-
-## Herramientas: 
-* Python (pandas, NumPy)
-* Matplotlib
-* Google Colab
+### Nota
+Este proyecto fue desarrollado en un contexto académico como parte de un proceso de formación. El objetivo fue aplicar fundamentos de análisis de datos y validación de hipótesis, priorizando el razonamiento analítico y la interpretación de resultados sobre el uso de herramientas avanzadas.
